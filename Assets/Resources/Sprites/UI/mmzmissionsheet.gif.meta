@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 175a036297ea1e34f96fb12e876a42b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6874942062246319988
+    second: missionstart_1
+  - first:
+      213: 1938292332043193547
+    second: missionfailed_1
+  - first:
+      213: 2230780877476194272
+    second: mmzmissionsheet_2
+  - first:
+      213: 6193707271218445010
+    second: missionstart_2
+  - first:
+      213: 483353894103612217
+    second: missionfailed_2
+  - first:
+      213: 6294474450069669126
+    second: mmzmissionsheet_5
+  - first:
+      213: -1197697017815441019
+    second: mmzmissionsheet_6
+  - first:
+      213: -944540661615829440
+    second: missionstart_3
+  - first:
+      213: -3618788839889111181
+    second: missionfailed_3
+  - first:
+      213: 6930579934127862252
+    second: mmzmissionsheet_9
+  - first:
+      213: -8107041031427936117
+    second: mmzmissionsheet_10
+  - first:
+      213: -6127581204017887883
+    second: mmzmissionsheet_11
+  - first:
+      213: -2043610642740566932
+    second: missionstart_4
+  - first:
+      213: 6864602021708481969
+    second: missionfailed_4
+  - first:
+      213: 2668279132865974091
+    second: mmzmissionsheet_14
+  - first:
+      213: -8192970936223727536
+    second: mmzmissionsheet_15
+  - first:
+      213: 3358580377437080644
+    second: mmzmissionsheet_16
+  - first:
+      213: 355633872131047467
+    second: mmzmissionsheet_17
+  - first:
+      213: -8300912431128755389
+    second: missionstart_5
+  - first:
+      213: -8552460158381547251
+    second: missionfailed_5
+  - first:
+      213: 5589233934643180952
+    second: mmzmissionsheet_20
+  - first:
+      213: 5973904789900879325
+    second: mmzmissionsheet_21
+  - first:
+      213: -6972207610587969204
+    second: mmzmissionsheet_22
+  - first:
+      213: -5529219292138602000
+    second: missionstart_6
+  - first:
+      213: -5415635271164193716
+    second: missionfailed_6
+  - first:
+      213: -4616177071481718559
+    second: mmzmissionsheet_25
+  - first:
+      213: -7720067347873003036
+    second: mmzmissionsheet_26
+  - first:
+      213: 2261578955529061283
+    second: missionstart_7
+  - first:
+      213: -1293401129747591827
+    second: missionfailed_7
+  - first:
+      213: -4509796039851439866
+    second: mmzmissionsheet_29
+  - first:
+      213: 2482239176077253010
+    second: mmzmissionsheet_30
+  - first:
+      213: 36516707276510066
+    second: missionstart_8
+  - first:
+      213: -1993319483054504171
+    second: missionfailed_8
+  - first:
+      213: -5461448313830119700
+    second: mmzmissionsheet_33
+  - first:
+      213: -651678411205748608
+    second: missionstart_9
+  - first:
+      213: -3582936623718857176
+    second: missionfailed_9
+  - first:
+      213: -8144469195833120635
+    second: missionstart_10
+  - first:
+      213: 6615556519000010135
+    second: missionfailed_10
+  - first:
+      213: 5756876283317614867
+    second: missionstart_11
+  - first:
+      213: -162853452139120643
+    second: missionstart_12
+  - first:
+      213: 2431024515295878034
+    second: missionfailed_11
+  - first:
+      213: -5786388241821443304
+    second: missionfailed_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: missionstart_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 144
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88aa609e9c4790a0800000000000000
+      internalID: -6874942062246319988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 352
+        width: 155
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc4c424b9236ea10800000000000000
+      internalID: 1938292332043193547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 359
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7e3bd836355fe10800000000000000
+      internalID: 2230780877476194272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 144
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dababf82f774f550800000000000000
+      internalID: 6193707271218445010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 320
+        width: 155
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bf8d64ec735b600800000000000000
+      internalID: 483353894103612217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 342
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605cc2ca9277a5750800000000000000
+      internalID: 6294474450069669126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_6
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 325
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581e09078ece06fe0800000000000000
+      internalID: -1197697017815441019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 144
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ed97cc54154e2f0800000000000000
+      internalID: -944540661615829440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 288
+        width: 155
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377f24929ba77cdc0800000000000000
+      internalID: -3618788839889111181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_9
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 308
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13425fabd5e2060800000000000000
+      internalID: 6930579934127862252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 291
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80b83682210e7f80800000000000000
+      internalID: -8107041031427936117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 291
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575472a3c5576faa0800000000000000
+      internalID: -6127581204017887883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 144
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ad3ca2f2a3a3e0800000000000000
+      internalID: -2043610642740566932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 256
+        width: 155
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5cc542b27f34f50800000000000000
+      internalID: 6864602021708481969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 274
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f4014fbb1a70520800000000000000
+      internalID: 2668279132865974091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 274
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050094b7758bc4e80800000000000000
+      internalID: -8192970936223727536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_16
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 257
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c0cba0f031c9e20800000000000000
+      internalID: 3358580377437080644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 257
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c77a5f177fe400800000000000000
+      internalID: 355633872131047467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 144
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34342febf1c3dcc80800000000000000
+      internalID: -8300912431128755389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 224
+        width: 155
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01acff7cce8f4980800000000000000
+      internalID: -8552460158381547251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_20
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 240
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89537f886a2f09d40800000000000000
+      internalID: 5589233934643180952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 240
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5eb0c51c297e250800000000000000
+      internalID: 5973904789900879325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 222
+        width: 97
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4901a65e1ebd3f90800000000000000
+      internalID: -6972207610587969204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 144
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f187de49544443b0800000000000000
+      internalID: -5529219292138602000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 192
+        width: 155
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c449e250a6cc7d4b0800000000000000
+      internalID: -5415635271164193716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 204
+        width: 98
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8770a396b00ffb0800000000000000
+      internalID: -4616177071481718559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 188
+        width: 97
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e900f756afccd490800000000000000
+      internalID: -7720067347873003036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 150
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a30fc3e31eb26f10800000000000000
+      internalID: 2261578955529061283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 160
+        width: 161
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4e45768aec0ee0800000000000000
+      internalID: -1293401129747591827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 172
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609013b456cf961c0800000000000000
+      internalID: -4509796039851439866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_30
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 172
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29994a1116fa27220800000000000000
+      internalID: 2482239176077253010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 150
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273559570cbb18000800000000000000
+      internalID: 36516707276510066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 128
+        width: 161
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517cba0cd7e4654e0800000000000000
+      internalID: -1993319483054504171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzmissionsheet_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 149
+        width: 120
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6effec1b90534b0800000000000000
+      internalID: -5461448313830119700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 150
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0885a4010f5c4f6f0800000000000000
+      internalID: -651678411205748608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 96
+        width: 161
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826008abf1ad64ec0800000000000000
+      internalID: -3582936623718857176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 150
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588614aea6809fe80800000000000000
+      internalID: -8144469195833120635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 64
+        width: 161
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79de3827a9d2fcb50800000000000000
+      internalID: 6615556519000010135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 149
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319740b7a7884ef40800000000000000
+      internalID: 5756876283317614867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionstart_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df73dcae5ad6dbdf0800000000000000
+      internalID: -162853452139120643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 33
+        width: 160
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1a72aaebbcb120800000000000000
+      internalID: 2431024515295878034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missionfailed_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5cb93d8e92bfa0800000000000000
+      internalID: -5786388241821443304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

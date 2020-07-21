@@ -1,0 +1,1764 @@
+fileFormatVersion: 2
+guid: 90c1001e9c184f74f9cc8a7d563b23f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3128292597205550460
+    second: mmzicons_0
+  - first:
+      213: 6368290150789228092
+    second: mmzicons_1
+  - first:
+      213: -6662983230661961623
+    second: mmzicons_2
+  - first:
+      213: 4164062048411857034
+    second: mmzicons_3
+  - first:
+      213: 8190296177137996845
+    second: mmzicons_4
+  - first:
+      213: -1793510190696548269
+    second: mmzicons_5
+  - first:
+      213: 1142507383001030815
+    second: mmzicons_6
+  - first:
+      213: 5070163493069358352
+    second: mmzicons_7
+  - first:
+      213: 4263683481981164302
+    second: mmzicons_8
+  - first:
+      213: 212245146334587496
+    second: mmzicons_9
+  - first:
+      213: -5507342633931059047
+    second: mmzicons_10
+  - first:
+      213: 8462738885396320319
+    second: mmzicons_11
+  - first:
+      213: -3476534781672042031
+    second: mmzicons_12
+  - first:
+      213: -5850276646226916654
+    second: mmzicons_13
+  - first:
+      213: 288989779199316432
+    second: mmzicons_14
+  - first:
+      213: 4051775133673070614
+    second: mmzicons_15
+  - first:
+      213: -8372143292019653345
+    second: mmzicons_16
+  - first:
+      213: -6961110163231816041
+    second: mmzicons_17
+  - first:
+      213: 8111014042335803936
+    second: mmzicons_18
+  - first:
+      213: 2925709599333810107
+    second: mmzicons_19
+  - first:
+      213: 5904791707906262193
+    second: mmzicons_20
+  - first:
+      213: -1269380138677792331
+    second: mmzicons_21
+  - first:
+      213: 6427627786755913648
+    second: mmzicons_22
+  - first:
+      213: -9156386225916510610
+    second: mmzicons_23
+  - first:
+      213: 1788820144871131491
+    second: mmzicons_24
+  - first:
+      213: -2329596695392637674
+    second: mmzicons_25
+  - first:
+      213: 8784472847582001720
+    second: mmzicons_26
+  - first:
+      213: -2994672254494481593
+    second: mmzicons_27
+  - first:
+      213: 7568187939083155729
+    second: mmzicons_28
+  - first:
+      213: -721753312678206090
+    second: mmzicons_29
+  - first:
+      213: -3191040989303179326
+    second: mmzicons_30
+  - first:
+      213: 5741312144545140687
+    second: mmzicons_31
+  - first:
+      213: 2966961011314535049
+    second: mmzicons_32
+  - first:
+      213: -2740591245432500077
+    second: mmzicons_33
+  - first:
+      213: 8020540422382860681
+    second: mmzicons_34
+  - first:
+      213: 6922726135569064924
+    second: mmzicons_35
+  - first:
+      213: -2754899841893006577
+    second: mmzicons_36
+  - first:
+      213: -3709053864874090139
+    second: mmzicons_37
+  - first:
+      213: -3732942393809460483
+    second: mmzicons_38
+  - first:
+      213: -4295679109307279177
+    second: mmzicons_39
+  - first:
+      213: -5147472038303766550
+    second: mmzicons_40
+  - first:
+      213: 2048140679917230740
+    second: mmzicons_41
+  - first:
+      213: 5564090995987646910
+    second: mmzicons_42
+  - first:
+      213: 8177174073480060350
+    second: mmzicons_43
+  - first:
+      213: -3478684053047478319
+    second: mmzicons_44
+  - first:
+      213: -5676842995585411971
+    second: mmzicons_45
+  - first:
+      213: 3351498041971107322
+    second: mmzicons_46
+  - first:
+      213: -6242378987325014508
+    second: mmzicons_47
+  - first:
+      213: -5586315624371294585
+    second: mmzicons_48
+  - first:
+      213: -8039352473486516864
+    second: mmzicons_49
+  - first:
+      213: 1491066425662126728
+    second: mmzicons_50
+  - first:
+      213: 4004820449866997590
+    second: mmzicons_51
+  - first:
+      213: 379939329311527291
+    second: mmzicons_52
+  - first:
+      213: -5395025896685684454
+    second: mmzicons_53
+  - first:
+      213: 7214196121293847344
+    second: mmzicons_54
+  - first:
+      213: 6470740867969953450
+    second: mmzicons_55
+  - first:
+      213: -4494250969531483622
+    second: mmzicons_56
+  - first:
+      213: -3034335745745072734
+    second: mmzicons_57
+  - first:
+      213: -6021101670411630809
+    second: mmzicons_58
+  - first:
+      213: -8084181030588294266
+    second: mmzicons_59
+  - first:
+      213: 343631321398820382
+    second: mmzicons_60
+  - first:
+      213: 8437461355562085636
+    second: mmzicons_61
+  - first:
+      213: 4125300893764466291
+    second: mmzicons_62
+  - first:
+      213: 2425387612318221094
+    second: mmzicons_63
+  - first:
+      213: 7638717947559565233
+    second: mmzicons_64
+  - first:
+      213: 4805923413821474616
+    second: mmzicons_65
+  - first:
+      213: 6237646507186389682
+    second: mmzicons_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmzicons_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 35
+        width: 12
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 30, z: 0, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75cbe1fa8de96b20800000000000000
+      internalID: 3128292597205550460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c362968c626b06850800000000000000
+      internalID: 6368290150789228092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9685200cd045883a0800000000000000
+      internalID: -6662983230661961623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a803642fe58b9c930800000000000000
+      internalID: 4164062048411857034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24dc83aaf6c9a170800000000000000
+      internalID: 8190296177137996845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3583d76ebfb2c17e0800000000000000
+      internalID: -1793510190696548269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a90d59600bdf00800000000000000
+      internalID: 1142507383001030815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0158d8585d6dc5640800000000000000
+      internalID: 5070163493069358352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 84
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b10327985ab2b30800000000000000
+      internalID: 4263683481981164302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 84
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ae29806db02f200800000000000000
+      internalID: 212245146334587496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 85
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990dc28bd0df193b0800000000000000
+      internalID: -5507342633931059047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 84
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30dee2cd20b17570800000000000000
+      internalID: 8462738885396320319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 84
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d529190ed0cfc0800000000000000
+      internalID: -3476534781672042031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 86
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da81e7e264afcea0800000000000000
+      internalID: -5850276646226916654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1d4ec4ca2b20400800000000000000
+      internalID: 288989779199316432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6102850540cca3830800000000000000
+      internalID: 4051775133673070614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15cf7e880c20db80800000000000000
+      internalID: -8372143292019653345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c436203b256f90800000000000000
+      internalID: -6961110163231816041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a71a92c4c109070800000000000000
+      internalID: 8111014042335803936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 74
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbffd3821653a9820800000000000000
+      internalID: 2925709599333810107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4cc6ef5c802f150800000000000000
+      internalID: 5904791707906262193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b19c254d71426ee0800000000000000
+      internalID: -1269380138677792331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73402ca65833950800000000000000
+      internalID: 6427627786755913648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e77f97d3bfde080800000000000000
+      internalID: -9156386225916510610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3694b16b17a23d810800000000000000
+      internalID: 1788820144871131491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61da235f52c9bafd0800000000000000
+      internalID: -2329596695392637674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a70334387b8e970800000000000000
+      internalID: 8784472847582001720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74363247379c076d0800000000000000
+      internalID: -2994672254494481593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119727625da970960800000000000000
+      internalID: 7568187939083155729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675aa56af21dbf5f0800000000000000
+      internalID: -721753312678206090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c77fd8802527b3d0800000000000000
+      internalID: -3191040989303179326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfcf380afc3daf40800000000000000
+      internalID: 5741312144545140687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a26d5f153cc2920800000000000000
+      internalID: 2966961011314535049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390537558c677f9d0800000000000000
+      internalID: -2740591245432500077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989bacef40fae4f60800000000000000
+      internalID: 8020540422382860681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 69
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd328ebfdb6721060800000000000000
+      internalID: 6922726135569064924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03003c9031a4c9d0800000000000000
+      internalID: -2754899841893006577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561e36b492bc68cc0800000000000000
+      internalID: -3709053864874090139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2adf9bbace13cc0800000000000000
+      internalID: -3732942393809460483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85cac0c9ea264c0800000000000000
+      internalID: -4295679109307279177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e5a124718098b0800000000000000
+      internalID: -5147472038303766550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a5e7cc8157c6c10800000000000000
+      internalID: 2048140679917230740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb90bc1f74f973d40800000000000000
+      internalID: 5564090995987646910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd105cce782b7170800000000000000
+      internalID: 8177174073480060350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7f94cd84b39bfc0800000000000000
+      internalID: -3478684053047478319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74977a6f5dc731b0800000000000000
+      internalID: -5676842995585411971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ea1156b9e28e20800000000000000
+      internalID: 3351498041971107322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_47
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e3123726d9e59a0800000000000000
+      internalID: -6242378987325014508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e6226898b6972b0800000000000000
+      internalID: -5586315624371294585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d9da9058b7e6090800000000000000
+      internalID: -8039352473486516864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a3a1e930551b410800000000000000
+      internalID: 1491066425662126728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fda8f0bfaf39730800000000000000
+      internalID: 4004820449866997590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7150d79ec0d54500800000000000000
+      internalID: 379939329311527291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_53
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a193402f7840125b0800000000000000
+      internalID: -5395025896685684454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b78bd5629fd1460800000000000000
+      internalID: 7214196121293847344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea3f43980bcc950800000000000000
+      internalID: 6470740867969953450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1afe950e8631a1c0800000000000000
+      internalID: -4494250969531483622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad489147bfd3e5d0800000000000000
+      internalID: -3034335745745072734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7278a929eefb07ca0800000000000000
+      internalID: -6021101670411630809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_59
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b55db3f283fcf80800000000000000
+      internalID: -8084181030588294266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ebcadbdd2d4c400800000000000000
+      internalID: 343631321398820382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2d583662e71570800000000000000
+      internalID: 8437461355562085636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 44
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376be6c5e43004930800000000000000
+      internalID: 4125300893764466291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_63
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 266
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6234cd2ee25b8a120800000000000000
+      internalID: 2425387612318221094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b750bb608d220a60800000000000000
+      internalID: 7638717947559565233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 66
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837cf8ac1e112b240800000000000000
+      internalID: 4805923413821474616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmzicons_66
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b20d472372909650800000000000000
+      internalID: 6237646507186389682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

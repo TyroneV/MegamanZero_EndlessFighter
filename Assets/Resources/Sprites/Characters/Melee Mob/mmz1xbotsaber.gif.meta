@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: cc44f69bf6cfdbb4b8162e2e43d4030f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5416962478249546505
+    second: mmz1xbotsaber_0
+  - first:
+      213: -377110930647558239
+    second: mmz1xbotsaber_1
+  - first:
+      213: -4910727030527080315
+    second: mmz1xbotsaber_2
+  - first:
+      213: -4193376288185380931
+    second: mmz1xbotsaber_3
+  - first:
+      213: -3349363052866438577
+    second: mmz1xbotsaber_4
+  - first:
+      213: -4094719594921006648
+    second: mmz1xbotsaber_5
+  - first:
+      213: 2357306447372434411
+    second: mmz1xbotsaber_6
+  - first:
+      213: -2834881637141891885
+    second: mmz1xbotsaber_7
+  - first:
+      213: 7995367492428770351
+    second: mmz1xbotsaber_8
+  - first:
+      213: -7062209383350182254
+    second: mmz1xbotsaber_9
+  - first:
+      213: -3376265824074627496
+    second: mmz1xbotsaber_10
+  - first:
+      213: 6595454951365120896
+    second: mmz1xbotsaber_11
+  - first:
+      213: -264959823265692376
+    second: mmz1xbotsaber_12
+  - first:
+      213: 1456850763306266803
+    second: mmz1xbotsaber_13
+  - first:
+      213: -3685462615788579435
+    second: mmz1xbotsaber_14
+  - first:
+      213: -4107495677146726413
+    second: mmz1xbotsaber_15
+  - first:
+      213: -8204074491203938502
+    second: mmz1xbotsaber_16
+  - first:
+      213: 378892670670677077
+    second: mmz1xbotsaber_17
+  - first:
+      213: 8967922081057715111
+    second: mmz1xbotsaber_18
+  - first:
+      213: -7754449641800781300
+    second: mmz1xbotsaber_19
+  - first:
+      213: -7873203673601550056
+    second: mmz1xbotsaber_20
+  - first:
+      213: 5563361334773063618
+    second: mmz1xbotsaber_0
+  - first:
+      213: -448630037851861501
+    second: mmz1xbotsaber_1
+  - first:
+      213: 8626939723292696783
+    second: mmz1xbotsaber_2
+  - first:
+      213: -2060731303221855556
+    second: mmz1xbotsaber_3
+  - first:
+      213: 2698938186622215417
+    second: mmz1xbotsaber_4
+  - first:
+      213: -4147180930564386876
+    second: mmz1xbotsaber_5
+  - first:
+      213: 4613405609200606347
+    second: mmz1xbotsaber_6
+  - first:
+      213: -8323198826659324249
+    second: mmz1xbotsaber_7
+  - first:
+      213: 6221953339600946683
+    second: mmz1xbotsaber_8
+  - first:
+      213: -724370102067806
+    second: mmz1xbotsaber_9
+  - first:
+      213: 2151576027056747724
+    second: mmz1xbotsaber_10
+  - first:
+      213: -2803944098863602514
+    second: mmz1xbotsaber_12
+  - first:
+      213: 4435004946979357718
+    second: mmz1xbotsaber_13
+  - first:
+      213: 8903457272106529058
+    second: mmz1xbotsaber_14
+  - first:
+      213: 7741421160769797193
+    second: mmz1xbotsaber_16
+  - first:
+      213: 7078883864165394419
+    second: mmz1xbotsaber_17
+  - first:
+      213: 7507094545393091061
+    second: mmz1xbotsaber_18
+  - first:
+      213: 203975920210309608
+    second: mmz1xbotsaber_19
+  - first:
+      213: 2607301922644229407
+    second: mmz1xbotsaber_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmz1xbotsaber_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 151
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.34666666, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf9a4478a7053d40800000000000000
+      internalID: 5563361334773063618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 150
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.37142855, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e05468b5526c9f0800000000000000
+      internalID: -448630037851861501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 150
+        width: 28
+        height: 36
+      alignment: 9
+      pivot: {x: 0.375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0619988fb09b770800000000000000
+      internalID: 8626939723292696783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 103
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3125, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbafee54ccfc663e0800000000000000
+      internalID: -2060731303221855556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 102
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.36400002, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4aa5c2bfd847520800000000000000
+      internalID: 2698938186622215417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 101
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.30357143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf8f669ae04276c0800000000000000
+      internalID: -4147180930564386876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 101
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: 0.38275865, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c523d65fb160040800000000000000
+      internalID: 4613405609200606347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 101
+        width: 31
+        height: 35
+      alignment: 9
+      pivot: {x: 0.42258066, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed50ee3ce0e7c80800000000000000
+      internalID: -8323198826659324249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 101
+        width: 31
+        height: 36
+      alignment: 9
+      pivot: {x: 0.38709676, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf548f7d891d85650800000000000000
+      internalID: 6221953339600946683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 52
+        width: 24
+        height: 37
+      alignment: 9
+      pivot: {x: 0.625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad5161703d6dfff0800000000000000
+      internalID: -724370102067806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 51
+        width: 24
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4b6ff3ffeebdd10800000000000000
+      internalID: 2151576027056747724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08395348553c78b50800000000000000
+      internalID: 6595454951365120896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 53
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: 0.82000005, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4ae21b2b36619d0800000000000000
+      internalID: -2803944098863602514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 52
+        width: 44
+        height: 34
+      alignment: 9
+      pivot: {x: 0.82045454, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140ec9608d4c8d30800000000000000
+      internalID: 4435004946979357718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 46
+        height: 34
+      alignment: 9
+      pivot: {x: 0.8304348, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22137c8673f6f8b70800000000000000
+      internalID: 8903457272106529058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 71
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff773fa17e3ff6c0800000000000000
+      internalID: -4107495677146726413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 20
+        height: 39
+      alignment: 9
+      pivot: {x: 0.2525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c3068a78d0f6b60800000000000000
+      internalID: 7741421160769797193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6041667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7a2d17e5f3d3260800000000000000
+      internalID: 7078883864165394419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 13
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6434783, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f18d69f6be8e2860800000000000000
+      internalID: 7507094545393091061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 19
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e17edac40ba4d200800000000000000
+      internalID: 203975920210309608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmz1xbotsaber_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df669d84ffe2420800000000000000
+      internalID: 2607301922644229407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
